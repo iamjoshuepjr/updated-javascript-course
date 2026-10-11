@@ -1,1 +1,0 @@
-# updated-javascript-course
